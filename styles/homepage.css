@@ -119,3 +119,7 @@ main {
     text-align: right;
     font-weight: bold;
 }
+
+.info-section {
+    background-color: white;
+}
